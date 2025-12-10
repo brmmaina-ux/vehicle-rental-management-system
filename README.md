@@ -1,6 +1,6 @@
 Vehicle Rental Management System 
 
-This project documents a custom database system I built for a vehicle hire company to streamline their weekly rental tracking, contract monitoring, service reminders, and compliance management. The original workflow relied on multiple Excel sheets, manual checks, and time-consuming follow-ups. I redesigned the entire process using a relational MS Access database.
+This project documents a custom database system I built for a UK vehicle hire company to streamline their weekly rental tracking, contract monitoring, service reminders, and compliance management. The original workflow relied on multiple Excel sheets, manual checks, and time-consuming follow-ups. I redesigned the entire process using a relational MS Access database.
 
 1. Project Overview
 
