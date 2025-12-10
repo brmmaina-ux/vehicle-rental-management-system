@@ -70,17 +70,7 @@ MOT & PCO Tracking
 Query-driven checks ensure no upcoming deadlines are missed
 Everything is stored in properly indexed tables to maintain lifetime history.
 
-6. System Architecture
-Access Database (accdb)
-│
-├── Tables (normalized schema)
-├── Queries (SQL logic for rental weeks, balances, compliance checks)
-├── Forms (assignment, payments, service history)
-├── Reports (statements, service logs, expiry summaries)
-│
-└── Python Automation (WhatsApp reminders)
-
-7. Skills Demonstrated
+6. Skills Demonstrated
 
 Database design and normalization
 MS Access development (tables, forms, queries, reports)
@@ -89,7 +79,7 @@ Operational systems thinking
 Integrating databases with communication workflows
 Designing compliance and renewal triggers
 
-8. Future Enhancements
+7. Future Enhancements
 
 Web-based version using Django/Flask
 Full WhatsApp Business API messaging
